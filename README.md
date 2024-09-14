@@ -1,2 +1,2 @@
-# Microservice_based_Online_Resume
-一个基于websocket技术的在线聊天室网站
+# 一个基于微服务的在线简历展示网站
+这是一个基于微服务的在线简历展示网站
